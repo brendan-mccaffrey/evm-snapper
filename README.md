@@ -12,6 +12,8 @@ This also contains some python scripts to help convert the results into a variet
 
 `yarn` or `npm i`
 
+i dont usually write js/ts tbh idk y i have all these lint eslint package tsconfig etc. i scrapped this together from a diff project. but it's there and it works so i didn't touch it
+
 ### Run
 
 Take a snapshot with `ts-node src/snap-holders.ts`
