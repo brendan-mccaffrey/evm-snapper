@@ -1,5 +1,7 @@
 # Snapshot Tool
 
+_srry sloppy code but ask GPT to clean it I got other stuffs to do_
+
 This project can be used to take a snapshot of NFT holders and/or minters of an NFT collection. It is compatible with a variety of blockchains and can be used to take snapshots of NFT holders on Ethereum, Arbitrum, and Optimism, and more.
 
 This also contains some python scripts to help convert the results into a variety of preferred file formats.
